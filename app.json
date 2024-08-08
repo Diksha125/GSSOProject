@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "healthy-blue-ice-cream",
+    "slug": "snack-741514b6-2a80-42ae-b553-384e2f74b342",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rawat0125.snack741514b62a8042aeb553384e2f74b342"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a2813bb-bc88-4a46-ab74-42f32f848abd"
+      }
+    }
+  }
+}
